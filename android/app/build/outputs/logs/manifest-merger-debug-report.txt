@@ -1,0 +1,148 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/stellent/Documents/git/DeepLinking/android/app/src/main/AndroidManifest.xml:1:1-34:12
+	package
+		ADDED from /Users/stellent/Documents/git/DeepLinking/android/app/src/main/AndroidManifest.xml:2:5-30
+		INJECTED from /Users/stellent/Documents/git/DeepLinking/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/stellent/Documents/git/DeepLinking/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/stellent/Documents/git/DeepLinking/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/stellent/Documents/git/DeepLinking/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/stellent/Documents/git/DeepLinking/android/app/src/main/AndroidManifest.xml:1:11-69
+	android:versionCode
+		INJECTED from /Users/stellent/Documents/git/DeepLinking/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/stellent/Documents/git/DeepLinking/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/stellent/Documents/git/DeepLinking/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/stellent/Documents/git/DeepLinking/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/stellent/Documents/git/DeepLinking/android/app/src/main/AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.56.0] /Users/stellent/.android/build-cache/d0c8166a9801c80abfbee69e3e03a63ffc3c5c02/output/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /Users/stellent/Documents/git/DeepLinking/android/app/src/main/AndroidManifest.xml:5:22-75
+application
+ADDED from /Users/stellent/Documents/git/DeepLinking/android/app/src/main/AndroidManifest.xml:7:5-32:19
+MERGED from [com.facebook.react:react-native:0.56.0] /Users/stellent/.android/build-cache/d0c8166a9801c80abfbee69e3e03a63ffc3c5c02/output/AndroidManifest.xml:13:5-20
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/stellent/.android/build-cache/0b81a8b0400b770c6234187cd9d28aa3839f9827/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/stellent/.android/build-cache/7aade1f0820b81c69e37e493031decadcb62d39d/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/stellent/.android/build-cache/2fae7e7ec56a12fee686c7775c03be796698378f/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/stellent/.android/build-cache/15a8ed22f3dfb2361e488f7aa90a2491d87db019/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/stellent/.android/build-cache/b83c50a5baa00a168123e45de2824a7f2b16dfa6/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/stellent/.android/build-cache/fb104b113eed327628715c6a458673b04698e0fd/output/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/stellent/.android/build-cache/4fcd51771a28e7716b5a2c8d9d53ba8a580f0ba2/output/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/stellent/.android/build-cache/892bb14c57bcf4c7b5331d6b62c7bdacb3f9601e/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/stellent/.android/build-cache/df9b825e4002e31436b12e4193f161f3eaab2b1c/output/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/stellent/.android/build-cache/0088217ea8acf9071c8ce02ce806cdb2cba74051/output/AndroidManifest.xml:24:5-28:19
+MERGED from [com.facebook.soloader:soloader:0.3.0] /Users/stellent/.android/build-cache/d9e224e158e6f9f657e229e5c4e41022829f50f6/output/AndroidManifest.xml:11:5-20
+MERGED from [org.webkit:android-jsc:r174650] /Users/stellent/.android/build-cache/b687b1918d85bdc67312481248a90899186d0f36/output/AndroidManifest.xml:2:3-17
+	android:label
+		ADDED from /Users/stellent/Documents/git/DeepLinking/android/app/src/main/AndroidManifest.xml:9:7-39
+	android:allowBackup
+		ADDED from /Users/stellent/Documents/git/DeepLinking/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:icon
+		ADDED from /Users/stellent/Documents/git/DeepLinking/android/app/src/main/AndroidManifest.xml:10:7-41
+	android:theme
+		ADDED from /Users/stellent/Documents/git/DeepLinking/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:name
+		ADDED from /Users/stellent/Documents/git/DeepLinking/android/app/src/main/AndroidManifest.xml:8:7-38
+activity#com.deeplinking.MainActivity
+ADDED from /Users/stellent/Documents/git/DeepLinking/android/app/src/main/AndroidManifest.xml:13:7-30:18
+	android:label
+		ADDED from /Users/stellent/Documents/git/DeepLinking/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/stellent/Documents/git/DeepLinking/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /Users/stellent/Documents/git/DeepLinking/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /Users/stellent/Documents/git/DeepLinking/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/stellent/Documents/git/DeepLinking/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /Users/stellent/Documents/git/DeepLinking/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /Users/stellent/Documents/git/DeepLinking/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/stellent/Documents/git/DeepLinking/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /Users/stellent/Documents/git/DeepLinking/android/app/src/main/AndroidManifest.xml:20:23-70
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from /Users/stellent/Documents/git/DeepLinking/android/app/src/main/AndroidManifest.xml:22:9-29:21
+action#android.intent.action.VIEW
+ADDED from /Users/stellent/Documents/git/DeepLinking/android/app/src/main/AndroidManifest.xml:23:9-61
+	android:name
+		ADDED from /Users/stellent/Documents/git/DeepLinking/android/app/src/main/AndroidManifest.xml:23:17-58
+category#android.intent.category.DEFAULT
+ADDED from /Users/stellent/Documents/git/DeepLinking/android/app/src/main/AndroidManifest.xml:24:9-68
+	android:name
+		ADDED from /Users/stellent/Documents/git/DeepLinking/android/app/src/main/AndroidManifest.xml:24:19-65
+category#android.intent.category.BROWSABLE
+ADDED from /Users/stellent/Documents/git/DeepLinking/android/app/src/main/AndroidManifest.xml:25:9-70
+	android:name
+		ADDED from /Users/stellent/Documents/git/DeepLinking/android/app/src/main/AndroidManifest.xml:25:19-67
+data
+ADDED from /Users/stellent/Documents/git/DeepLinking/android/app/src/main/AndroidManifest.xml:27:9-28:39
+	android:host
+		ADDED from /Users/stellent/Documents/git/DeepLinking/android/app/src/main/AndroidManifest.xml:28:15-36
+	android:scheme
+		ADDED from /Users/stellent/Documents/git/DeepLinking/android/app/src/main/AndroidManifest.xml:27:15-37
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/stellent/Documents/git/DeepLinking/android/app/src/main/AndroidManifest.xml:31:7-84
+	android:name
+		ADDED from /Users/stellent/Documents/git/DeepLinking/android/app/src/main/AndroidManifest.xml:31:17-81
+uses-sdk
+INJECTED from /Users/stellent/Documents/git/DeepLinking/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.facebook.react:react-native:0.56.0] /Users/stellent/.android/build-cache/d0c8166a9801c80abfbee69e3e03a63ffc3c5c02/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/stellent/.android/build-cache/0b81a8b0400b770c6234187cd9d28aa3839f9827/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.1.0] /Users/stellent/.android/build-cache/7aade1f0820b81c69e37e493031decadcb62d39d/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/stellent/.android/build-cache/2fae7e7ec56a12fee686c7775c03be796698378f/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/stellent/.android/build-cache/15a8ed22f3dfb2361e488f7aa90a2491d87db019/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/stellent/.android/build-cache/b83c50a5baa00a168123e45de2824a7f2b16dfa6/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/stellent/.android/build-cache/fb104b113eed327628715c6a458673b04698e0fd/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/stellent/.android/build-cache/4fcd51771a28e7716b5a2c8d9d53ba8a580f0ba2/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/stellent/.android/build-cache/892bb14c57bcf4c7b5331d6b62c7bdacb3f9601e/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/stellent/.android/build-cache/df9b825e4002e31436b12e4193f161f3eaab2b1c/output/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/stellent/.android/build-cache/0088217ea8acf9071c8ce02ce806cdb2cba74051/output/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/stellent/.android/build-cache/afc70698dc9a08da3e19a384bdd936affbf1aefb/output/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fresco:fresco:1.9.0] /Users/stellent/.android/build-cache/c10c8b166ad25fe8fc8e417bf4b5989563292749/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.9.0] /Users/stellent/.android/build-cache/2204df350afc09da9a2a25aea66b69db92fffd7f/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.9.0] /Users/stellent/.android/build-cache/d81a5cfc20b8c279dcccddcfec4f2a7b759f2249/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.9.0] /Users/stellent/.android/build-cache/65be4a3ce30a79b64de9878d64c555a95d11ba19/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.9.0] /Users/stellent/.android/build-cache/9b5863de6cc60fbb67ef0dd1b1a7e73f590da529/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.9.0] /Users/stellent/.android/build-cache/6ce57ba93930f898ccab37cfee5832ac94b128e2/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.3.0] /Users/stellent/.android/build-cache/d9e224e158e6f9f657e229e5c4e41022829f50f6/output/AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/stellent/.android/build-cache/0b81a8b0400b770c6234187cd9d28aa3839f9827/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/stellent/Documents/git/DeepLinking/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/stellent/Documents/git/DeepLinking/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/stellent/Documents/git/DeepLinking/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/stellent/Documents/git/DeepLinking/android/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/stellent/.android/build-cache/0b81a8b0400b770c6234187cd9d28aa3839f9827/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/stellent/.android/build-cache/7aade1f0820b81c69e37e493031decadcb62d39d/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/stellent/.android/build-cache/2fae7e7ec56a12fee686c7775c03be796698378f/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/stellent/.android/build-cache/15a8ed22f3dfb2361e488f7aa90a2491d87db019/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/stellent/.android/build-cache/b83c50a5baa00a168123e45de2824a7f2b16dfa6/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/stellent/.android/build-cache/fb104b113eed327628715c6a458673b04698e0fd/output/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/stellent/.android/build-cache/4fcd51771a28e7716b5a2c8d9d53ba8a580f0ba2/output/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/stellent/.android/build-cache/892bb14c57bcf4c7b5331d6b62c7bdacb3f9601e/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/stellent/.android/build-cache/df9b825e4002e31436b12e4193f161f3eaab2b1c/output/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/stellent/.android/build-cache/0b81a8b0400b770c6234187cd9d28aa3839f9827/output/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/stellent/.android/build-cache/0b81a8b0400b770c6234187cd9d28aa3839f9827/output/AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/stellent/.android/build-cache/0088217ea8acf9071c8ce02ce806cdb2cba74051/output/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/stellent/.android/build-cache/0088217ea8acf9071c8ce02ce806cdb2cba74051/output/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/stellent/.android/build-cache/0088217ea8acf9071c8ce02ce806cdb2cba74051/output/AndroidManifest.xml:26:13-58
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /Users/stellent/Documents/git/DeepLinking/android/app/src/main/AndroidManifest.xml:1:1-34:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /Users/stellent/Documents/git/DeepLinking/android/app/src/main/AndroidManifest.xml:1:1-34:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Users/stellent/Documents/git/DeepLinking/android/app/src/main/AndroidManifest.xml:1:1-34:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE

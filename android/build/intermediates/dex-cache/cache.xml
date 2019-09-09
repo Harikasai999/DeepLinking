@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/stellent/.android/build-cache/c10c8b166ad25fe8fc8e417bf4b5989563292749/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f80a752d1333efd4fb9b87da63e73909acb151af">
+        <dex dex="/Users/stellent/Documents/git/DeepLinking/android/app/build/intermediates/pre-dexed/debug/classes_17b8bd38068bea4c4ca4c94423976c643e555a41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stellent/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.10.0/ec614c05825ddd2267677a99f585d3913474b125/okhttp-urlconnection-3.10.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="ec614c05825ddd2267677a99f585d3913474b125">
+        <dex dex="/Users/stellent/Documents/git/DeepLinking/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.10.0_792e74621c7c6ebbcab9d9408da764dda359579f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stellent/.android/build-cache/7aade1f0820b81c69e37e493031decadcb62d39d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/stellent/Documents/git/DeepLinking/android/app/build/intermediates/pre-dexed/debug/classes_a67352f7cc5363d234051f96f24c4b18439ed399.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stellent/.android/build-cache/fb104b113eed327628715c6a458673b04698e0fd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="/Users/stellent/Documents/git/DeepLinking/android/app/build/intermediates/pre-dexed/debug/classes_c0d3a6ed2451a9c71f926fd0c27a287f10e696fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stellent/.android/build-cache/d9e224e158e6f9f657e229e5c4e41022829f50f6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="9803a14716e9f462afb5742811f3456c39f3be3a">
+        <dex dex="/Users/stellent/Documents/git/DeepLinking/android/app/build/intermediates/pre-dexed/debug/classes_07494fa5155745a1d331a39e185e047d8d49792e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stellent/.android/build-cache/0088217ea8acf9071c8ce02ce806cdb2cba74051/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="/Users/stellent/Documents/git/DeepLinking/android/app/build/intermediates/pre-dexed/debug/classes_e8e4384510e3fcc52e432a99271905b84058d32d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stellent/.android/build-cache/df9b825e4002e31436b12e4193f161f3eaab2b1c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="/Users/stellent/Documents/git/DeepLinking/android/app/build/intermediates/pre-dexed/debug/classes_248189dea03126e6e0c1efa778a6ed9ca099a21c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stellent/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/Users/stellent/Documents/git/DeepLinking/android/app/build/intermediates/pre-dexed/debug/common-1.0.0_548ddc1bfc3f5c3bed4f26c5febfcea5ee7d453a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stellent/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/stellent/Documents/git/DeepLinking/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_2dd1c25885ac1b961fc13e42f2c1699ae47cab18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stellent/.android/build-cache/d81a5cfc20b8c279dcccddcfec4f2a7b759f2249/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="dc6c0959ecc7b21932675183573b2bcecf2687b9">
+        <dex dex="/Users/stellent/Documents/git/DeepLinking/android/app/build/intermediates/pre-dexed/debug/classes_9f97b8c2f545f32be64b0bb45f17de27d9e27f45.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stellent/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.14.0/102d7be47241d781ef95f1581d414b0943053130/okio-1.14.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="102d7be47241d781ef95f1581d414b0943053130">
+        <dex dex="/Users/stellent/Documents/git/DeepLinking/android/app/build/intermediates/pre-dexed/debug/okio-1.14.0_1cd1503412a2494dac13a74366338867405bcd36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stellent/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.10.0/7ef0f1d95bf4c0b3ba30bbae25e0e562b05cf75e/okhttp-3.10.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="7ef0f1d95bf4c0b3ba30bbae25e0e562b05cf75e">
+        <dex dex="/Users/stellent/Documents/git/DeepLinking/android/app/build/intermediates/pre-dexed/debug/okhttp-3.10.0_30efc172a11c72b7007c65c30648b219bdad67b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stellent/.android/build-cache/9b5863de6cc60fbb67ef0dd1b1a7e73f590da529/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="87382214d92be4e3c931cb6aa7aa4e827bc179b7">
+        <dex dex="/Users/stellent/Documents/git/DeepLinking/android/app/build/intermediates/pre-dexed/debug/classes_a107d9aa48f9d5bda0403581b9c1dc8ed6ead203.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stellent/.android/build-cache/b83c50a5baa00a168123e45de2824a7f2b16dfa6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="/Users/stellent/Documents/git/DeepLinking/android/app/build/intermediates/pre-dexed/debug/classes_2e7b2e4d9de70df80d41ab1ea4df44054be6b8ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stellent/.android/build-cache/2fae7e7ec56a12fee686c7775c03be796698378f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="/Users/stellent/Documents/git/DeepLinking/android/app/build/intermediates/pre-dexed/debug/classes_34ba7ad6f9d82eff2aebbfbf04455564630094bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stellent/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/stellent/Documents/git/DeepLinking/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_d5155b5ba5e0f974dfe8460b0ac4a96cc4742713.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stellent/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.0/e414a4cb28434e25c4f6aa71426eb20cf4874ae9/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="/Users/stellent/Documents/git/DeepLinking/android/app/build/intermediates/pre-dexed/debug/common-1.0.0_6b1c898a4fd266f0b7884fd26dba08f46034f85d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stellent/.android/build-cache/d0c8166a9801c80abfbee69e3e03a63ffc3c5c02/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/stellent/Documents/git/DeepLinking/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_a4ffc72217c30b84d44e67ce66d11c2e64f14b5f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stellent/.android/build-cache/65be4a3ce30a79b64de9878d64c555a95d11ba19/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="1c9837ec75b2273699379c2ba0ae63d669b4f08c">
+        <dex dex="/Users/stellent/Documents/git/DeepLinking/android/app/build/intermediates/pre-dexed/debug/classes_a6921d6d159827ffeeeace124e6429f46d0ada23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stellent/.android/build-cache/15a8ed22f3dfb2361e488f7aa90a2491d87db019/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="/Users/stellent/Documents/git/DeepLinking/android/app/build/intermediates/pre-dexed/debug/classes_7954d1963d19f61b36942699e53c7dde48c99c98.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stellent/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.1.0/814258103cf26a15fcc26ecce35f5b7d24b73f8/support-annotations-26.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="/Users/stellent/Documents/git/DeepLinking/android/app/build/intermediates/pre-dexed/debug/support-annotations-26.1.0_a9fae54df0d97b6eb851bbdd3e27c3006c7fa764.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stellent/.android/build-cache/d0c8166a9801c80abfbee69e3e03a63ffc3c5c02/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="e7a850c25a7efbd533c496ab482c980fdafac58d">
+        <dex dex="/Users/stellent/Documents/git/DeepLinking/android/app/build/intermediates/pre-dexed/debug/classes_fe0844c60fc0c009b78f151ef8d2dfdae11675c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stellent/.android/build-cache/afc70698dc9a08da3e19a384bdd936affbf1aefb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/stellent/Documents/git/DeepLinking/android/app/build/intermediates/pre-dexed/debug/classes_71ea16687d0fe58d927f845406126414482f4e36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stellent/.android/build-cache/892bb14c57bcf4c7b5331d6b62c7bdacb3f9601e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="/Users/stellent/Documents/git/DeepLinking/android/app/build/intermediates/pre-dexed/debug/classes_5e2c4bfd0f843e340c3b3206ba5e26a1c15caf42.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stellent/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/stellent/Documents/git/DeepLinking/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_8bd5960406c0b43586f691ef67b2eb687b0e77f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stellent/.android/build-cache/6ce57ba93930f898ccab37cfee5832ac94b128e2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="ae15c560bc6685007440d8a70686f8348bafd791">
+        <dex dex="/Users/stellent/Documents/git/DeepLinking/android/app/build/intermediates/pre-dexed/debug/classes_c8bb345c8e9ef07a2f4262bfcd913e6a95c75dfd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stellent/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/stellent/Documents/git/DeepLinking/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_ad792e7dc72b22912d325904f442d0b7d0978d09.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stellent/.android/build-cache/2204df350afc09da9a2a25aea66b69db92fffd7f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="da59c80e4a1c8df62d2b4188ef3efddab8afa236">
+        <dex dex="/Users/stellent/Documents/git/DeepLinking/android/app/build/intermediates/pre-dexed/debug/classes_03944586b73b91010ac2c97c1875597d5604e3a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stellent/.android/build-cache/4fcd51771a28e7716b5a2c8d9d53ba8a580f0ba2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="/Users/stellent/Documents/git/DeepLinking/android/app/build/intermediates/pre-dexed/debug/classes_479e09e68df232ef1830df3bb6abc9a3cc2d48fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stellent/.android/build-cache/0b81a8b0400b770c6234187cd9d28aa3839f9827/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="/Users/stellent/Documents/git/DeepLinking/android/app/build/intermediates/pre-dexed/debug/classes_ea6b9d7938bd30b5ad09e2ac2185e81b6cb6a004.jar" />
+    </item>
+
+</items>

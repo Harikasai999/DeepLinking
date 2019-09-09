@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/stellent/Documents/git/DeepLinking/android/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/stellent/.android/build-cache/df9b825e4002e31436b12e4193f161f3eaab2b1c/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/stellent/Documents/git/DeepLinking/android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/stellent/.android/build-cache/df9b825e4002e31436b12e4193f161f3eaab2b1c/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/stellent/Documents/git/DeepLinking/android/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/stellent/.android/build-cache/df9b825e4002e31436b12e4193f161f3eaab2b1c/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/stellent/Documents/git/DeepLinking/android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/stellent/.android/build-cache/df9b825e4002e31436b12e4193f161f3eaab2b1c/output/res/layout-v21/notification_template_custom_big.xml"
+    }
+]
